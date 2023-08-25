@@ -1,4 +1,4 @@
-![logo](https://github.com/VivekSingh67/VivekSingh67/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/VivekSingh67/VivekSingh67/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
