@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Khandelwal!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=vivek+ho+mai+koi+shakk" alt="Typing SVG" /></a>
      
 </div>
 
@@ -56,15 +56,15 @@
 <br/> </br> 
 
 <h2 align="center"><b>🏆 Github Trophy</b></h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%  alt="namankoolwal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VivekSingh67&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%  alt="namankoolwal" /></a> </p>
 
 <br> <br>
 
 <h2 align="center"><b>📊 Github Stats</b></h2>
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"/><br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSingh67&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=VivekSingh67&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"/><br>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekSingh67&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
 
 
 </p>
@@ -73,36 +73,19 @@
 <h2 align="center"><b>🌄 GitHub Activity</b></h2>
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namankoolwal&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />   
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekSingh67&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />   
 </div>
 
 
 
 <br>
 
-<h2 align="center"><b>📛 Holopin Badges</b></h2>
-
-[![An image of @namankoolwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namankoolwal)](https://holopin.io/@namankoolwal)
-
-<br>
-
-<h2 align="center"><b>♾ DevCard </b></h2>
-
-<div align="center">
-<a href="https://app.daily.dev/namankhandelwal26"> <img src="https://api.daily.dev/devcards/v2/68qj3Y75PaAFJTpDjqE7z.png?type=wide&r=cbt" width="700" alt="Naman Khandelwal's Dev Card"/></a>
-
 
 </div>
 
 <br>
 
-<h2 align="center"><b>🎇Badges</b></h2>
-<div align="center"> 
-      
-![aws-educate-introduction-to-cloud-101](https://github.com/namankoolwal/namankoolwal/assets/104143943/33e73087-0498-4356-b2a8-1bfe465dcc9c)
-![github-foundations](https://github.com/user-attachments/assets/a3891013-24ca-4131-9895-396252958265)
 
-</div>
 
 <h2 align="center"></h2>
 
