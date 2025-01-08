@@ -2,7 +2,7 @@
 
 <div align=center>     
       
-![Profile Views](https://komarev.com/ghpvc/?username=namankoolwal&color=219ebc&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=VivekSingh67&color=219ebc&style=flat)
 <br><br>
 </div>
 
